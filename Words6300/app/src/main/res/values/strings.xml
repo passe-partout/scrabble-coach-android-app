@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Words6300</string>
+    <string name="title_activity_play_game">PlayGameActivity</string>
+    <string name="action_settings">action_settings</string>
+</resources>
